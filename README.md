@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @0xPratham
+- 👀 I’m interested in penetration testing and web development
+- 🌱 I’m currently learning web3 and blockchain security
+- 📫 How to reach me pentesterpratham@gmail.com
